@@ -21,3 +21,4 @@ If you encounter any issues or have any questions, please contact us at contact@
 
 #License
 This website is licensed under the MIT License. Feel free to use and modify the code as needed
+Link to the page https://juliettengum.github.io/management-octo-juliette/
